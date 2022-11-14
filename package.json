@@ -1,0 +1,9 @@
+{
+  "name": "nexmo-client-in-iframe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nexmo-client": "^9.1.5"
+  }
+}
